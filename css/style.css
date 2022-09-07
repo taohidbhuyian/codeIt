@@ -1,0 +1,6 @@
+.banner .carousel-item{
+    height: 90vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    vertical-align: middle;
+}
